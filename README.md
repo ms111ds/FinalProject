@@ -1,3 +1,5 @@
+CS 361 Group Project
+
 To run the web app run the following commands: 
 1. `npm install`
 2. `node app.js`
